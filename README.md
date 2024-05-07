@@ -21,3 +21,4 @@ functions, then testing them at _massive_ scale.
 1. Implementation - Implement the code you will be testing in the other phases
 2. Scale testing harness - Testing your code for a variety of inputs
 3. Timing your code - Measure the time it takes to run with various input sizes
+# aa05-timing-benchmark
