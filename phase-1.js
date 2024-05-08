@@ -15,7 +15,16 @@ function addNums(n) {
 
 // Adds up values of addNums(1) through addNums(n)
 function addManyNums(n) {
-  // Fill this in
+
+
+  let num = 0;
+
+  for (let i = 1; i <= n; i++) {
+
+           num += addNums(i);
+  }
+
+  return num;
 
 }
 
